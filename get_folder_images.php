@@ -1,5 +1,6 @@
 <?php
 
+
 /*----------------------------------------------------------------------------*\
   Script:  get_folder_images
   Purpose: A little script to dynamically read the contents of an image folder 
